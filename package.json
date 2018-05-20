@@ -1,0 +1,46 @@
+{
+  "name": "joeir",
+  "version": "1.0.0",
+  "description": "An *about me* product of sorts. Have fun!",
+  "bin": {
+    "joeir": "./src/hello.js"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "./src/hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zephinzer/howto.joeir.net.git"
+  },
+  "keywords": [
+    "joeir",
+    "joseph",
+    "matthias",
+    "goh",
+    "zephinzer",
+    "software",
+    "devops",
+    "engineer",
+    "technopreneur",
+    "musician"
+  ],
+  "author": "Joseph Matthias Goh",
+  "contributors": [
+    {
+      "email": "hello@joeir.net",
+      "url": "https://github.com/zephinzer"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zephinzer/howto.joeir.net/issues"
+  },
+  "homepage": "https://github.com/zephinzer/howto.joeir.net#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^5.2.0"
+  }
+}
