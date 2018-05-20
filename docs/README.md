@@ -50,29 +50,29 @@ This section is divided into a few categories of work-related affairs you should
 
 ### My Strengths
 
-**Business level interactions**. It is within my long term goals to be able to launch my own products, hence I have put in effort and am reasonably good with conveying technical level issues to non-technical people. Feel free to include me in product level discussions if you need help convincing non-technical humans about why we should/shouldn't pursue a certain feature/how we can do so.
+- **Business level interactions**. It is within my long term goals to be able to launch my own products, hence I have put in effort and am reasonably good with conveying technical level issues to non-technical people. Feel free to include me in product level discussions if you need help convincing non-technical humans about why we should/shouldn't pursue a certain feature/how we can do so.
 
-**Technical proficiency**. Being an engineer before a product guy, you can trust that I will bring technical proficiency to the team. Even though I may not be the best, you can trust that I am always seeking to improve myself in software engineering and architecting.
+- **Technical proficiency**. Being an engineer before a product guy, you can trust that I will bring technical proficiency to the team. Even though I may not be the best, you can trust that I am always seeking to improve myself in software engineering and architecting.
 
-**Innovation**. Despite my values of creating working software, I consider myself to be somewhat innovative and am highly motivated when it comes to creating/using new things for proof-of-concepts/pushing technical boundaries.
+- **Innovation**. Despite my values of creating working software, I consider myself to be somewhat innovative and am highly motivated when it comes to creating/using new things for proof-of-concepts/pushing technical boundaries.
 
-**Resourcefulness**. Disregarding quality, I am one of those guys who can always get something to work, albeit usually leaving a trail of destruction. If something hasn't been done before that I believe in, that triggers me.
+- **Resourcefulness**. Disregarding quality, I am one of those guys who can always get something to work, albeit usually leaving a trail of destruction. If something hasn't been done before that I believe in, that triggers me.
 
 ### Other Things To Note
 
-**I am by nature an introvert**. This means that I work beautifully with small groups (3 to 5 people). Any larger and my silence tends to be proportional in growth to the number of people present. I have put in effort to condition myself for larger meetings, but on my *bad-hair* days, I occassionally may fall silent during meetings, but this does not mean I am disengaged. I have just run out of mana.
+- **I am by nature an introvert**. This means that I work beautifully with small groups (3 to 5 people). Any larger and my silence tends to be proportional in growth to the number of people present. I have put in effort to condition myself for larger meetings, but on my *bad-hair* days, I occassionally may fall silent during meetings, but this does not mean I am disengaged. I have just run out of mana.
 
-**I tend towards verbosity**. In code and in architecting things, I usually manage to find a beautifully complex way of doing things. While I do have some personal mitigations against this, as my team members, I would appreciate it if you could point this out to me before the damage is done.
+- **I tend towards verbosity**. In code and in architecting things, I usually manage to find a beautifully complex way of doing things. While I do have some personal mitigations against this, as my team members, I would appreciate it if you could point this out to me before the damage is done.
 
-**I speak with colour occassionally**. In the course of our work, during pair programming or 1-1s, I tend to use colourful language especially when I'm passionate (with love or with hate) about something. If you are not comfortable with this, let me know prior and I will accomodate.
+- **I speak with colour when excited**. In the course of our work, during pair programming or 1-1s, I tend to use colourful language especially when I'm passionate (with love or with hate) about something. If you are not comfortable with this, let me know prior and I will accomodate.
 
-**I work on weekends**. I am lucky enough to be one of those people whose hobby is also their profession - product engineering. Hence, I tend to work on weekends when I really feel for a product, and may send you messages/emails over your time of rest. I do not hold any expectations over you to reply there and then unless it's tagged as **URGENT** - which will not happen often. Feel free to reply when your work week starts!
+- **I work on weekends**. I am lucky enough to be one of those people whose hobby is also their profession - product engineering. Hence, I tend to work on weekends when I really feel for a product, and may send you messages/emails over your time of rest. I do not hold any expectations over you to reply there and then unless it's tagged as **URGENT** - which will not happen often. Feel free to reply when your work week starts!
 
 ### Reporting To Me?
 
-**Monthly 1-1s**. I will conduct monthly 30 minute 1-1s in the mornings (when I still have extrovert mana) at a date/time/latlong which we will settle within the week prior to the 1-1. I will do a check-in with you primarily on matters un-related to work and on any non-technical issues you are facing at work which may hinder your performance or level of happiness. The agenda for the rest of the 1-1 should be set by you and can include technical issues should you wish for that.
+- **Monthly 1-1s**. I will conduct monthly 30 minute 1-1s in the mornings (when I still have extrovert mana) at a date/time/latlong which we will settle within the week prior to the 1-1. I will do a check-in with you primarily on matters un-related to work and on any non-technical issues you are facing at work which may hinder your performance or level of happiness. The agenda for the rest of the 1-1 should be set by you and can include technical issues should you wish for that.
 
-**You set your own standards**. I assess you based on the standards you set for yourself. This means that we will work together to understand your short/long term plans and objectives. Note that to me, there is nothing wrong with just wanting to keep your job where we are, we just need to figure out what you need to do to '*just keep your job*' in the work environment we are in.
+- **You set your own standards**. I assess you based on the standards you set for yourself. This means that we will work together to understand your short/long term plans and objectives. Note that to me, there is nothing wrong with just wanting to keep your job where we are, we just need to figure out what you need to do to '*just keep your job*' in the work environment we are in.
 
 ## Further Reading
 
