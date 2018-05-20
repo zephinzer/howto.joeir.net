@@ -44,9 +44,7 @@ function start() {
           process.stdout.write(isNewline ? '\n' : '');
           process.stdout.write(character);
         } else {
-          setTimeout(() => {
-            reallyStart();
-          }, process.env.DEBUG ? 0 : (time += 200));
+          reallyStart();
         }
       }, process.env.DEBUG ? 0 : (time += isNewline ? 750 : 20));
     })(i);
